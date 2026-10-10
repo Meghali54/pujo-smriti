@@ -75,13 +75,8 @@ Note: GitHub Pages cannot set headers, so the CSP is not applied there. The app 
 
 Set the environment variable `VITE_SITE_URL` in your host's dashboard so canonical/OG tags use the production URL.
 
-## Cultural notes
-Descriptions of Mahalaya, Bodhon, Nabapatrika snan, Pushpanjali, Kumari Puja, Sandhi Puja (108 lamps and lotuses), Sindoor Khela, Boron and Bisarjan follow widely observed Bengali practice, but customs differ between families, Barowari and Bonedi Bari pujas, and neighbourhoods. Dates are deliberately not hard-coded because they change with the lunar calendar. The goddess is represented respectfully and abstractly: the chalchitra arch and eyes, alpana, and lamps. Please have a Bengali reader review any copy before you publish it as your own.
-
 ## Known limits / ideas
 * Bengali is typed with the visitor's own Bengali keyboard; there is no built-in transliteration.
-* No audio ships (no dhak / Mahalaya recordings are bundled, to avoid licensing problems). An opt-in ambient dhak loop that you record or license would be a natural addition.
-* Real photographs are not bundled. The hero is an illustrated scene; drop a licensed photo into `Hero.tsx` if you have one.
 
 ## Structure
 ```

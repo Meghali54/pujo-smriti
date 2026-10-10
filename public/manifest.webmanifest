@@ -1,0 +1,10 @@
+{
+  "name": "PUJO SMRITI — A Digital Home for Puja Memories",
+  "short_name": "Pujo Smriti",
+  "description": "Some festivals end. Some stay with us forever.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e1c",
+  "theme_color": "#0b0e1c",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
